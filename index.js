@@ -25,4 +25,4 @@ client.on('message', message => {
     }
     })
 
-client.login('INSERT YOUR TOKEN') //How to get bot token:   https://www.writebots.com/discord-bot-token/
+client.login('INSERT YOUR TOKEN') //How to get bot token:  https://www.writebots.com/discord-bot-token/
